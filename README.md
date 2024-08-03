@@ -4,6 +4,7 @@ Amazon Sales Data Analysis
 
 About
 This project explores Amazon Sales data to understand top-performing branches and products, sales trends of different products & customer behavior. The aim is to study how sales strategies can be improved and optimized. Vervebridge provided the data set to complete the project and extract various information. Here in this project, I developed a Power BI Dashboard to present insights into Amazon sales trends, highlighting region-specific and item-specific sales analyses across different years, quarters, months, and days. This comprehensive dashboard offers detailed insights into various sales trends.
+
 Purposes Of The Project
 The major aim of thie project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different branches.
 
@@ -22,12 +23,12 @@ Conduct analysis on the data to understand the different product lines, the prod
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
 Overall Analysis:
-total revenue: 2.72 T
-No. of brands: 44k
-No. of category: 129k
-Total sales: 129k
-Top 5 category of brands: zupaco, zutano, zunahme, zysta, Zzyzx/magic
-Max brand by discount % counts to : 0.1-0.2%
-Max delivery type: fulfilled by merchant- 87.76%
-Left in stock by category max : womenswear
+*total revenue: 2.72 T
+*No. of brands: 44k
+*No. of category: 129k
+*Total sales: 129k
+*Top 5 category of brands: zupaco, zutano, zunahme, zysta, Zzyzx/magic
+*Max brand by discount % counts to : 0.1-0.2%
+*Max delivery type: fulfilled by merchant- 87.76%
+*Left in stock by category max : womenswear
 
